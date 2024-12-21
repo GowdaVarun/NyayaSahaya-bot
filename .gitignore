@@ -1,0 +1,4 @@
+.env
+__pycache__/
+ipc_embed_db/
+venv/
