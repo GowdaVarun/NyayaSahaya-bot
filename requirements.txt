@@ -13,3 +13,5 @@ unstructured
 htbuilder
 python-dotenv
 together
+langchain_community
+langchain-huggingface
